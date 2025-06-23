@@ -171,7 +171,10 @@ const Header = () => {
                   </div>
                 </div>
               </Card>
+              
             </a>
+
+            <a href="https://www.producthunt.com/products/baelys?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-baelys" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=981640&theme=light&t=1750647223963" alt="Baelys - AI&#0045;powered&#0032;image&#0032;editor&#0032;for&#0032;stunning&#0032;visuals&#0032;in&#0032;seconds | Product Hunt" style={{width: '200px', height: '40px'}} width="200" height="54" /></a>
           </div>
         </div>
       </div>
